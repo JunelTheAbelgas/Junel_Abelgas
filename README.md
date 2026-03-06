@@ -16,3 +16,9 @@
 10101010101010101010101010101010
 01010101010101010101010101010101
 ```
+ SYSTEM MODULES
+
+-  Web Development
+-  AI / Machine Learning
+-  Open Source Projects
+-  Continuous Learning
